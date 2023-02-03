@@ -212,6 +212,6 @@ const InputLabelBase = React.forwardRef<InputLabelBaseRef, InputLabelBaseProps>(
   }
 );
 
-export default React.memo(InputLabelBase);
+export default InputLabelBase;
 
 InputLabelBase.displayName = "InputLabelBase";
