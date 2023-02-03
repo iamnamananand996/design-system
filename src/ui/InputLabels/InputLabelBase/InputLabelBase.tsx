@@ -157,6 +157,7 @@ const InputLabelBase = React.forwardRef<InputLabelBaseRef, InputLabelBaseProps>(
       <>
         {type !== "hide" ? (
           <label
+            id={`${htmlFor}-label`}
             ref={ref}
             className={cn(
               "z-10 flex flex-row",
