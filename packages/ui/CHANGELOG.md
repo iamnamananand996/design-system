@@ -1,5 +1,11 @@
 # @instill-ai/design-system
 
+## 0.1.3
+
+### Patch Changes
+
+- 1f43ad1: Update tsconfig with tsconfig base json file in the root
+
 ## 0.1.2
 
 ### Patch Changes
